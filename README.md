@@ -1,5 +1,9 @@
 # SkillOpt: Self-Optimizing Agent Skills
 
+> 📌 **SMF skill-optimizer family (2026-07-15):** Related repos include `skillopt-content`, `smf-SkillTrain`, and SkillOpt patterns in `smf-forgewright`.  
+> **Canon direction:** treat **skillopt** as the primary open implementation; avoid forking effort across three optimizers without a written merge plan.
+
+
 A practical implementation of **SkillOpt** (arXiv:2605.23904) with **TRACE-inspired capability diagnosis** (arXiv:2604.05336) and **real continuous verification** via LLM-as-a-Verifier (arXiv:2607.05391).
 
 ## Overview
